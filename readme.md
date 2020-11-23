@@ -1,6 +1,7 @@
 # Solutions
 | #  | Title | Solution | Write-up | Difficulty |
 |----| ----- | -------- | -------- | ---------- |
+|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](cpp/0098-validate-binary-search-tree/1.cpp)| |Medium|
 |0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](cpp/0097-interleaving-string/interleaving-string.cpp)| |Hard|
 |0087|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](cpp/0087-scramble-string/1.cpp)| |Hard|
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](cpp/0037-sudoku-solver/1.cpp)| |Hard|
