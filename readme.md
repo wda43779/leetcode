@@ -1,9 +1,11 @@
 # Solutions
 | #  | Title | Solution | Write-up | Difficulty |
 |----| ----- | -------- | -------- | ---------- |
+|0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[JavaScript](js/0151-reverse-words-in-a-string/1.js)| |Medium|
 |0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](cpp/0099-recover-binary-search-tree/1.cpp)| |Hard|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](cpp/0098-validate-binary-search-tree/1.cpp)| |Medium|
 |0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](cpp/0097-interleaving-string/interleaving-string.cpp)| |Hard|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](cpp/0094-binary-tree-inorder-traversal/1.cpp)| |Medium|
 |0087|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](cpp/0087-scramble-string/1.cpp)| |Hard|
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](cpp/0037-sudoku-solver/1.cpp)| |Hard|
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](cpp/0036-valid-sudoku/1.cpp)| |Medium|
