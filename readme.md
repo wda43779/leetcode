@@ -3,6 +3,8 @@
 |----| ----- | -------- | -------- | ---------- |
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](cpp/0152-maximum-product-subarray/1.cpp)| |Medium|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[JavaScript](js/0151-reverse-words-in-a-string/1.js)| |Medium|
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](cpp/0113-path-sum-ii/1.cpp)| |Medium|
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](cpp/0112-path-sum/1.cpp)| |Easy|
 |0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[C++](cpp/0107-binary-tree-level-order-traversal-ii/1.cpp)| |Easy|
 |0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/same-tree/)|[C++](cpp/0106-construct-binary-tree-from-inorder-and-postorder-traversal/1.cpp)| |Medium|
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](cpp/0105-construct-binary-tree-from-preorder-and-inorder-traversal/1.cpp)| |Medium|
