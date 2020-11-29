@@ -3,6 +3,7 @@
 |----| ----- | -------- | -------- | ---------- |
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](cpp/0152-maximum-product-subarray/1.cpp)| |Medium|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[JavaScript](js/0151-reverse-words-in-a-string/1.js)| |Medium|
+|0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++_1](cpp/0115-distinct-subsequences/1.cpp) [C++_2](cpp/0115-distinct-subsequences/2.cpp)| |Hard|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](cpp/0114-flatten-binary-tree-to-linked-list/1.cpp)| |Medium|
 |0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](cpp/0113-path-sum-ii/1.cpp)| |Medium|
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](cpp/0112-path-sum/1.cpp)| |Easy|
