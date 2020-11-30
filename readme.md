@@ -27,5 +27,6 @@
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](cpp/0013-roman-to-integer/1.cpp)| |Easy|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](cpp/0012-integer-to-roman/1.cpp)| |Medium|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](cpp/0009-palindrome-number/1.cpp)| |Easy|
+|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](cpp/0008-string-to-integer-atoi/1.cpp)| |Medium|
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](cpp/0007-reverse-integer/1.cpp)| |Easy|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[C++](cpp/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp)|[zh](writeup/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.md)|Hard|
