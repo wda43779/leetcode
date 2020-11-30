@@ -26,4 +26,5 @@
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++_1](cpp/0019-remove-nth-node-from-end-of-list/1.cpp) [C++_2](cpp/0019-remove-nth-node-from-end-of-list/2.cpp)| |Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](cpp/0013-roman-to-integer/1.cpp)| |Easy|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](cpp/0012-integer-to-roman/1.cpp)| |Medium|
+|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](cpp/0007-reverse-integer/1.cpp)| |Easy|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[C++](cpp/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp)|[zh](writeup/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.md)|Hard|
