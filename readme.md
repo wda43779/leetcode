@@ -23,6 +23,7 @@
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](cpp/0037-sudoku-solver/1.cpp)| |Hard|
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](cpp/0036-valid-sudoku/1.cpp)| |Medium|
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[C++](cpp/0030-substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.cpp)| |Hard|
+|0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[C++](cpp/0025-reverse-nodes-in-k-group/reverse-nodes-in-k-group.cpp)| |Hard|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Rust](rust/0020-valid-parentheses/1.rs)| |Easy|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++_1](cpp/0019-remove-nth-node-from-end-of-list/1.cpp) [C++_2](cpp/0019-remove-nth-node-from-end-of-list/2.cpp)| |Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](cpp/0013-roman-to-integer/1.cpp)| |Easy|
@@ -30,4 +31,8 @@
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](cpp/0009-palindrome-number/1.cpp)| |Easy|
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](cpp/0008-string-to-integer-atoi/1.cpp)| |Medium|
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](cpp/0007-reverse-integer/1.cpp)| |Easy|
+|0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C++](cpp/0006-zigzag-conversion/zigzag-conversion.cpp)| |Medium|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[C++](cpp/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp)|[zh](writeup/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.md)|Hard|
+|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[C++](cpp/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp)| |Medium|
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](cpp/0002-add-two-numbers/add-two-numbers.cpp)| |Medium|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](cpp/0001-two-sum/two-sum.cpp)| |Easy|
