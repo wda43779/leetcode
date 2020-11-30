@@ -26,6 +26,7 @@
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[C++](cpp/0025-reverse-nodes-in-k-group/reverse-nodes-in-k-group.cpp)| |Hard|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Rust](rust/0020-valid-parentheses/1.rs)| |Easy|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++_1](cpp/0019-remove-nth-node-from-end-of-list/1.cpp) [C++_2](cpp/0019-remove-nth-node-from-end-of-list/2.cpp)| |Medium|
+|0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Rust](rust/0017-letter-combinations-of-a-phone-number/1.rs)| |Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](cpp/0013-roman-to-integer/1.cpp)| |Easy|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](cpp/0012-integer-to-roman/1.cpp)| |Medium|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](cpp/0009-palindrome-number/1.cpp)| |Easy|
