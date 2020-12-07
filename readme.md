@@ -20,6 +20,7 @@
 |0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C++](cpp/0095-unique-binary-search-trees-ii/1.cpp)|[zh](writeup/0095-unique-binary-search-trees-ii/1.md)|Medium|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](cpp/0094-binary-tree-inorder-traversal/1.cpp)| |Medium|
 |0087|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](cpp/0087-scramble-string/1.cpp)| |Hard|
+|0087|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](cpp/0086-partition-list/1.cpp)| |Medium|
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](cpp/0037-sudoku-solver/1.cpp)| |Hard|
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](cpp/0036-valid-sudoku/1.cpp)| |Medium|
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[C++](cpp/0030-substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.cpp)| |Hard|
