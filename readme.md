@@ -26,6 +26,7 @@
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](cpp/0036-valid-sudoku/1.cpp)| |Medium|
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[C++](cpp/0030-substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.cpp)| |Hard|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[C++](cpp/0025-reverse-nodes-in-k-group/reverse-nodes-in-k-group.cpp)| |Hard|
+|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](cpp/0024-swap-nodes-in-pairs/1.cpp)| |Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Rust](rust/0020-valid-parentheses/1.rs)| |Easy|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++_1](cpp/0019-remove-nth-node-from-end-of-list/1.cpp) [C++_2](cpp/0019-remove-nth-node-from-end-of-list/2.cpp)| |Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Rust](rust/0017-letter-combinations-of-a-phone-number/1.rs)| |Medium|
